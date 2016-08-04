@@ -1,0 +1,14 @@
+layout_spectrum: 0.6840616338886321
+typography_spectrum: 0.4623467840719968
+color:
+  brandStrength: 0.20198615919798613
+  lightness: 0.8372538755647838
+  saturation: 0.6686619522515684
+  rhythmicContrast: 0.08712514629587531
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: shopwithme
